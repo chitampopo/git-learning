@@ -6,3 +6,4 @@ Number of commit is 2
 - b
 - c
 - d
+- e
