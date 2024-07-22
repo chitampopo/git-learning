@@ -7,3 +7,4 @@ Number of commit is 2
 - c
 - d
 - e
+- f
